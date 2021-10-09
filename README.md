@@ -1,7 +1,7 @@
 # Run-Buddy
 
 ## Purpose 
-Run Buddy is a website that offers fitness training services. 
+Run Buddy is a website that offers fitness training services. dfssdfh
 
 ## Built With
 * HTML
